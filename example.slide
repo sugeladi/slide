@@ -1,0 +1,36 @@
+我的第一个Slide
+练习一下
+10 May 2016
+
+苏格拉没有底
+http://star.asottt.com
+lihexingstar@163.com
+@star
+
+* Formatting
+
+Let's *bold* some text.
+Let's _italicize_ some text.
+
+* Images
+
+.image http://7xk2rp.com1.z0.glb.clouddn.com/2011922123813232.jpg
+
+* Showing Code
+
+.code hello.go
+
+* Showing Partial Code
+
+.code hello.go /show A type/,/end show A type/
+.code hello.go /start main OMIT/,/end main OMIT/
+.code hello.go /^func printStr/,/}/
+
+* Running code
+
+.play hello.go /start main OMIT/,/end main OMIT/
+
+* Bullet Points
+- bullet point 1
+- bullet point 2
+- bullet point 3
