@@ -73,3 +73,27 @@ Visualize 标签页用来设计可视化。你可以保存可视化，以后再�
 - Terms terms 聚合允许你指定展示一个字段的首尾几个元素，排序方式可以是计数或者其他自定义的metric。
 - Filters 你可以为数据指定一组 filters。你可以用 query string，也可以用 JSON 格式来指定过滤器，就像在 Discover 页的搜索栏里一样。点击 Add Filter 添加下一个过滤器。
 - Significant Terms 展示实验性的 significant terms 聚合的结果。
+
+* 区域图 Area Chart
+
+.image http://o6yi53w5j.bkt.clouddn.com/AreaChart.png?imageView2/1/w/700/h/400
+
+* 数据表格 Data table
+
+.image http://o6yi53w5j.bkt.clouddn.com/dataTable.png?imageView2/1/w/700/h/400
+
+* 折线图 LineChart
+
+.image http://o6yi53w5j.bkt.clouddn.com/lineChart.png?imageView2/1/w/700/h/400
+
+* 饼图 Pie Chart
+
+.image http://o6yi53w5j.bkt.clouddn.com/pieChart.png?imageView2/1/w/700/h/400
+
+* 世界地图 Tile map
+
+.image http://o6yi53w5j.bkt.clouddn.com/tileMap.png?imageView2/1/w/700/h/400
+
+* 柱状图 Bar Chart
+
+.image http://o6yi53w5j.bkt.clouddn.com/barChart.png?imageView2/1/w/700/h/400
